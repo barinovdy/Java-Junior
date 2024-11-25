@@ -1,4 +1,4 @@
-package org.geekbrains.Lesson1.Homework;
+package org.geekbrains.Lesson1.Homework.my;
 
 //Урок 1. Лямбды и Stream API
 //Напишите программу, которая использует Stream API для обработки списка чисел.

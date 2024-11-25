@@ -1,4 +1,4 @@
-package org.geekbrains.Lesson2.Homework;
+package org.geekbrains.Lesson2.Homework.my;
 
 //Используя Reflection API, напишите программу,
 //которая выводит на экран все методы класса String.
